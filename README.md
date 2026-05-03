@@ -1,2 +1,2 @@
 # Productivity-Dashboard
-Interactive productivity dashboard using Streamlit Select: Public
+Interactive productivity dashboard using Streamlit 
